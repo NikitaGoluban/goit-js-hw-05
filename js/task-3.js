@@ -6,7 +6,7 @@ function sortByDescendingFriendCount(users) {
 
 
 
-
+console.log(sortByDescendingFriendCount);
 console.log(
   sortByDescendingFriendCount([
     {
